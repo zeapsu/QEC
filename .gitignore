@@ -1,0 +1,11 @@
+*.db
+*.db.lock
+*.md5
+*.aux
+*.auxlock
+*.fls
+*.log
+*synctex.gz
+*.fdb_latexmk
+*.DS_Store
+tstex_modules
