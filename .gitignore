@@ -12,5 +12,6 @@
 *.blg
 *.bib
 *.run.xml
+*.bbl
 .env
 tstex_modules
